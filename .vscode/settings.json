@@ -1,3 +1,8 @@
 {
-  "java.project.sourcePaths": ["Function & Arrays"]
+  "java.project.sourcePaths": [
+    "Function & Arrays",
+    "Bit Manipulation",
+    "Binary Search",
+    "."
+  ]
 }
