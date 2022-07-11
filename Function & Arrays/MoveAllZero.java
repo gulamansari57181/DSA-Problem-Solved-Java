@@ -24,7 +24,7 @@ public class MoveAllZero {
             //ith pointer track non-zero value , 
             if(nums[j]!=0){
                 int temp=nums[i];
-                nums[i]=nums[j];
+                nums[i]=nums[j]; 
                 nums[j]=temp;
                 i++;
             }
