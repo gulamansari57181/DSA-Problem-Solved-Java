@@ -17,7 +17,7 @@ System.out.println("Largest element is : "+secondLargest(nums));
 sc.close();
 
     }
-    //To find Second llargest
+    //To find Second largest if all the elements are unique
     public static int secondLargest(int nums[]){
       Arrays.sort(nums);
       return nums[nums.length-2];
